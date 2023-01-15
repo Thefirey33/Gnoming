@@ -1,1 +1,1 @@
-"# Gnoming" 
+Gnome your chums with this.
